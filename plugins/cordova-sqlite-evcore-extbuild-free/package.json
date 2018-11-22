@@ -1,0 +1,98 @@
+{
+  "_args": [
+    [
+      "cordova-sqlite-evcore-extbuild-free@^0.9.7",
+      "/home/lucas/projects/moodlemobile"
+    ]
+  ],
+  "_from": "cordova-sqlite-evcore-extbuild-free@>=0.9.7 <0.10.0",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-sqlite-evcore-extbuild-free@0.9.9",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-sqlite-evcore-extbuild-free",
+  "_nodeVersion": "10.11.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-sqlite-evcore-extbuild-free_0.9.9_1541549495555_0.5689691054886017"
+  },
+  "_npmUser": {
+    "email": "chris.brody@gmail.com",
+    "name": "brodybits"
+  },
+  "_npmVersion": "6.4.1",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-sqlite-evcore-extbuild-free",
+    "raw": "cordova-sqlite-evcore-extbuild-free@^0.9.7",
+    "rawSpec": "^0.9.7",
+    "scope": null,
+    "spec": ">=0.9.7 <0.10.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-sqlite-evcore-extbuild-free/-/cordova-sqlite-evcore-extbuild-free-0.9.9.tgz",
+  "_shasum": "c9d14c26fb30e20823b09d9e0d44dd4bede5fee1",
+  "_shrinkwrap": null,
+  "_spec": "cordova-sqlite-evcore-extbuild-free@^0.9.7",
+  "_where": "/home/lucas/projects/moodlemobile",
+  "author": {
+    "name": "various"
+  },
+  "bugs": {
+    "url": "https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free/issues"
+  },
+  "cordova": {
+    "id": "cordova-sqlite-evcore-extbuild-free",
+    "platforms": [
+      "android",
+      "ios",
+      "osx",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "Cordova/PhoneGap sqlite storage - free enterprise version with Android performance/memory improvements and extra features for PhoneGap Build",
+  "devDependencies": {
+    "shelljs": "^0.7.4"
+  },
+  "directories": {},
+  "dist": {
+    "fileCount": 82,
+    "integrity": "sha512-69U0JBhtBJd2QLNouaCuhfe2jv9HNClaPYRa+HcNmvdLqt/+DyIrpjBPtwYAsqNe9pxuR9oK1z/umuXw2IJSUw==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJb4i24CRA9TVsSAnZWagAAM/kP/0WpizQsKwRH25fypLmp\n57Efw5/ykHpkQbz5osijBkVulS3A+soDsze2mt1MPSwCPi2CRP/qM7VoA+g5\nI/ovZF2N+5ApJFkEATRNyjGcZHiimHBH8HE6IBKnsJEikbKCkPJg/Vp47mL7\nfputyFnuhrQsBzZl4ktCyHZWs96uFenJFxGfbrv7TaH1+jQ79FgFsrtKfu4x\nTZ5ZWWYy8KOhUayPgZkOuRnvrlEEFcU02vgjGVLBeHphuI4hbIPN7hBRpRl2\n8twwsaPp1Yw14NgFol36paxGcdeL+l+P30zvUEfhqAi5i8lkSmpcOAM+dogf\nGBAKztrywzvGNPegm5eXsOv+gSPme3pNEtlLEEeQUHa2Lse7Az8EO7wE2Voo\nhFGIIR6dVI2tbyBfZJRNhW1kngruYv24kRLu6dEcLYjKR8LxPd8JgJK89dTH\n+R/HEyVHfuD2hERRiwXVvbKGPXOV8iU6cZDphLDz6Z8fWue5P/tVAY7Ub8Fw\nW5SCRmJ2DTEhykEiOobojBeUOajt1Ipfs9GazcrV0U7QKXsmqtuIW0o2aQI2\nw9GQgqqIWcNZPxLNwXaOf/RSs93zGT4wuf7yunLsN2+mlCvPdxgmSKo3wA9X\nddUKrO6gXF49uiYFJZ53g/A5bY0am771YUjhOQs8Z5DX7+1INXpJWhV9Ny6D\ncYOa\r\n=RIPC\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "c9d14c26fb30e20823b09d9e0d44dd4bede5fee1",
+    "tarball": "https://registry.npmjs.org/cordova-sqlite-evcore-extbuild-free/-/cordova-sqlite-evcore-extbuild-free-0.9.9.tgz",
+    "unpackedSize": 12357024
+  },
+  "gitHead": "c643272f3c9177afca937065d1ab8fab0cae9797",
+  "homepage": "https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free",
+  "keywords": [
+    "cordova-android",
+    "cordova-ios",
+    "cordova-osx",
+    "cordova-windows",
+    "ecosystem:cordova",
+    "sqlite"
+  ],
+  "license": "GPL-3.0 OR Commercial",
+  "maintainers": [
+    {
+      "name": "brodybits",
+      "email": "brodybits@litehelpers.net"
+    }
+  ],
+  "name": "cordova-sqlite-evcore-extbuild-free",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/litehelpers/Cordova-sqlite-evcore-extbuild-free.git"
+  },
+  "scripts": {
+    "start": "node scripts/prepareSpec.js"
+  },
+  "version": "0.9.9"
+}

@@ -1,0 +1,81 @@
+{
+  "_args": [
+    [
+      "nl.kingsquare.cordova.background-audio@^1.0.1",
+      "/home/lucas/projects/moodlemobile"
+    ]
+  ],
+  "_from": "nl.kingsquare.cordova.background-audio@>=1.0.1 <2.0.0",
+  "_id": "nl.kingsquare.cordova.background-audio@1.0.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nl.kingsquare.cordova.background-audio",
+  "_npmUser": {
+    "email": "aubrey@hewes.org.uk",
+    "name": "aubreyhewes"
+  },
+  "_npmVersion": "1.4.28",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nl.kingsquare.cordova.background-audio",
+    "raw": "nl.kingsquare.cordova.background-audio@^1.0.1",
+    "rawSpec": "^1.0.1",
+    "scope": null,
+    "spec": ">=1.0.1 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/nl.kingsquare.cordova.background-audio/-/nl.kingsquare.cordova.background-audio-1.0.1.tgz",
+  "_shasum": "1b1d4dcda8a35c0c7fc7953337b173b14b4f9860",
+  "_shrinkwrap": null,
+  "_spec": "nl.kingsquare.cordova.background-audio@^1.0.1",
+  "_where": "/home/lucas/projects/moodlemobile",
+  "bugs": {
+    "url": "https://github.com/AubreyHewes/cordova-background-audio/issues"
+  },
+  "cordova": {
+    "id": "nl.kingsquare.cordova.background-audio",
+    "platforms": [
+      "ios"
+    ]
+  },
+  "dependencies": {},
+  "description": "\n\t\tBackground Audio for iOS\n\n\t\tWhen included within a cordova/phonegap build then the application will support background audio for iOS\n\t\tout of the box. No further action is necessary.\n\n\t\tThis negates having to use location/other solutions that may not b",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "1b1d4dcda8a35c0c7fc7953337b173b14b4f9860",
+    "tarball": "https://registry.npmjs.org/nl.kingsquare.cordova.background-audio/-/nl.kingsquare.cordova.background-audio-1.0.1.tgz"
+  },
+  "gitHead": "225aaad43f3325bf170a425c30a6173d481f58f1",
+  "homepage": "https://github.com/AubreyHewes/cordova-background-audio",
+  "keywords": [
+    "audio",
+    "background",
+    "background-audio",
+    "cordova",
+    "cordova-ios",
+    "ecosystem:cordova",
+    "ios",
+    "media",
+    "phonegap"
+  ],
+  "license": "MIT",
+  "maintainers": [
+    {
+      "name": "aubreyhewes",
+      "email": "aubrey@hewes.org.uk"
+    }
+  ],
+  "name": "nl.kingsquare.cordova.background-audio",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AubreyHewes/cordova-background-audio.git"
+  },
+  "scripts": {},
+  "version": "1.0.1"
+}

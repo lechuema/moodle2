@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      "com-darryncampbell-cordova-plugin-intent@^1.1.0",
+      "/home/lucas/projects/moodlemobile"
+    ]
+  ],
+  "_from": "com-darryncampbell-cordova-plugin-intent@>=1.1.0 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "com-darryncampbell-cordova-plugin-intent@1.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/com-darryncampbell-cordova-plugin-intent",
+  "_nodeVersion": "8.9.4",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/com-darryncampbell-cordova-plugin-intent_1.1.1_1536587385904_0.16006870231458947"
+  },
+  "_npmUser": {
+    "email": "darryncampbell@hotmail.com",
+    "name": "darryncampbell"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "com-darryncampbell-cordova-plugin-intent",
+    "raw": "com-darryncampbell-cordova-plugin-intent@^1.1.0",
+    "rawSpec": "^1.1.0",
+    "scope": null,
+    "spec": ">=1.1.0 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/com-darryncampbell-cordova-plugin-intent/-/com-darryncampbell-cordova-plugin-intent-1.1.1.tgz",
+  "_shasum": "8f116f64ec45fd980529c98f74fef179e9ceb076",
+  "_shrinkwrap": null,
+  "_spec": "com-darryncampbell-cordova-plugin-intent@^1.1.0",
+  "_where": "/home/lucas/projects/moodlemobile",
+  "author": {
+    "name": "Darryn Campbell"
+  },
+  "bugs": {
+    "url": "https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent/issues"
+  },
+  "cordova": {
+    "id": "com-darryncampbell-cordova-plugin-intent",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "General purpose intent shim layer for cordova appliations on Android.  Handles various techniques for sending and receiving intents.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 7,
+    "integrity": "sha512-h+V54+qCFY1h5csX8lAKTxBn5DdbP/8/sm7vS6X0WZPI+OTKycxeoJC+oGtPHhlvTh4gSEVW5/MkDqANRcmaug==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJblnZ6CRA9TVsSAnZWagAAhSYP/1B9O7aM246z7W9UHyuD\n0tgbV1Y7tuoGrxIJZYitkCxFvmamuvR+QUcZkeHwwaN5AYdCTPdRXcaJpIC8\n1gt8n3txkDbKHCjUswC7QgOgmfdqlPlQH/bfMTtHKBkOSYOv/qnF3cQto6V1\nTLsfva0X6FkUHHGaiQK9P1SqXLP89QtiZrzbBBfBpLYhmxK6Ibdz50iZkaEx\n2bFk8QbXQY/6+NsHdxj2C91T18hdQ3lrQ5ur62tZWF7BXXx9pef3LdRbQ5rT\nQBb6x1kNDNUAbSnZ230CGxn5bEnDfSmg5Mr0fE8IFTBJ5ejRidJXzFM5rHfn\nYdFN4ZWFdjQwr1CmwzeruyKQMwIiehKW6RlShMNqZFbNaL/RkVeBZZ9PGS+N\nqfTj+sK/FzS0YzHCzrDQ9gaZsu4/DTfOb8o6Zki017aogYcRdyjSbLIxlgfQ\n0c4G22OKf3m2ew+28amGk191Nbpu26O+RJ0ZbOyPVRXNNGR/aKJWWRNHjMZc\nDoMwUjQwrraPHl4abjLOFG6irjuDRwHwIp3pcT78UQR1cFf5qXSkeDmuuv9d\noP7ALpLARoQwXsnWAuM5yA0a2HRnh7K54FF88K4MGQyI4xikaK+LwLDbCZJT\ngQRrUDa9eip8tUYAusUfKO+e+UYN14eVN+2Pztesko+gX5k7mt+tUUOxSymM\nZAga\r\n=q5uL\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "8f116f64ec45fd980529c98f74fef179e9ceb076",
+    "tarball": "https://registry.npmjs.org/com-darryncampbell-cordova-plugin-intent/-/com-darryncampbell-cordova-plugin-intent-1.1.1.tgz",
+    "unpackedSize": 52568
+  },
+  "gitHead": "767134c8440faeca4446a15041085a619a6b8e4f",
+  "homepage": "https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent#readme",
+  "keywords": [
+    "Intent",
+    "cordova-android",
+    "ecosystem:cordova"
+  ],
+  "license": "MIT",
+  "main": "intentShim.js",
+  "maintainers": [
+    {
+      "name": "darryncampbell",
+      "email": "jrq768@zebra.com"
+    }
+  ],
+  "name": "com-darryncampbell-cordova-plugin-intent",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darryncampbell/darryncampbell-cordova-plugin-intent.git"
+  },
+  "version": "1.1.1"
+}

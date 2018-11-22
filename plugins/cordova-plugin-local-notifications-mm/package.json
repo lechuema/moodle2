@@ -1,0 +1,112 @@
+{
+  "_args": [
+    [
+      "cordova-plugin-local-notifications-mm@^1.0.13",
+      "/home/lucas/projects/moodlemobile"
+    ]
+  ],
+  "_from": "cordova-plugin-local-notifications-mm@>=1.0.13 <2.0.0",
+  "_hasShrinkwrap": false,
+  "_id": "cordova-plugin-local-notifications-mm@1.0.13",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/cordova-plugin-local-notifications-mm",
+  "_nodeVersion": "8.6.0",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/cordova-plugin-local-notifications-mm_1.0.13_1536148615338_0.4347491986590606"
+  },
+  "_npmUser": {
+    "email": "dani@moodle.com",
+    "name": "dpalou"
+  },
+  "_npmVersion": "5.3.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "cordova-plugin-local-notifications-mm",
+    "raw": "cordova-plugin-local-notifications-mm@^1.0.13",
+    "rawSpec": "^1.0.13",
+    "scope": null,
+    "spec": ">=1.0.13 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-local-notifications-mm/-/cordova-plugin-local-notifications-mm-1.0.13.tgz",
+  "_shasum": "fa10a3eb7851e02a16d2a769184b29cb946d902a",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-local-notifications-mm@^1.0.13",
+  "_where": "/home/lucas/projects/moodlemobile",
+  "author": {
+    "name": "Sebastián Katzer"
+  },
+  "bugs": {
+    "url": "https://github.com/katzer/cordova-plugin-local-notifications/issues"
+  },
+  "cordova": {
+    "id": "de.appplant.cordova.plugin.local-notification",
+    "platforms": [
+      "android",
+      "ios",
+      "windows"
+    ]
+  },
+  "dependencies": {},
+  "description": "Schedules and queries for local notifications",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "fileCount": 47,
+    "integrity": "sha512-uZjYumhkvLH6tYU7cmR9Qx9ho8xPS2/lBGgKRsejVDtBFNnkSkkR3X/at2MuBe3ZJ7qAnJdFAN4rMY3yd+dG/g==",
+    "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v3.0.4\r\nComment: https://openpgpjs.org\r\n\r\nwsFcBAEBCAAQBQJbj8SICRA9TVsSAnZWagAAHY8QAJub1qXgSmA98Q2Z7jcJ\nrv8kYK5yu9omiiK2h5tqrQPDFDAG/wynfI3vuL5IGb0FHbW8XJ46HVvEoloC\nn/r5u63FvgXOqllMfuro6R1/70M+acGpyQ90Gs3iNeXzBtCnW+uzS4wd9dim\nv6YtX87KwQQg8Ja3QrdVYR7wadIXW9ReNVT6JdtbEI/bdRFUNNTssctsSEmD\noT91FRHYtns6JDwzDz+Ksyo4oUE7rUkzHWD4JPmVt25IEhru95ZHtW4lGM9e\nDC57JABnknENaclQmtpFpzoLVrK/kUP1R8/bHySb3FeeD13FK1dJmCYZILxx\nI58eTnAL7hryjncNqT2HSHcNE/ftSB74YaVwSUF/9VnSxWBERtNtNPGyF1gZ\n7PO4luv7t9vlFCiO/6LdszWTRfMLnDJLwdRLmVuKMAVfqJPTGq0qW94Vr6T5\nAyHjugoGAg829UN13wRM0LOPFdd2jI0GUfNU3wnYMGWafOGniAYIHGhiYRNG\ncVXJCs736xS2x1VfbQ94jsyj0G2ZqBcSHxon4bvwlSThDbqpIL1zuDb6p/CT\nkFn8KQcPotWhMHEoaq2c9vRdTzuZ6M41QHhoSxSQHeTNpGwrszwxC/95C6cU\n8rbEzFpVLM+jdtb9x6EOMbC1VtJ0IX+7pXhrUjxr7DVCVfeInJ+cQRd5PpAO\n/BNB\r\n=7bxL\r\n-----END PGP SIGNATURE-----\r\n",
+    "shasum": "fa10a3eb7851e02a16d2a769184b29cb946d902a",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-local-notifications-mm/-/cordova-plugin-local-notifications-mm-1.0.13.tgz",
+    "unpackedSize": 300503
+  },
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.6.0"
+    },
+    {
+      "name": "cordova-plugman",
+      "version": ">=4.3.0"
+    },
+    {
+      "name": "cordova-windows",
+      "version": ">=4.2.0"
+    },
+    {
+      "name": "apple-ios",
+      "version": ">=10.0.0"
+    }
+  ],
+  "gitHead": "3715bc59a0f8522de47be2c0d1136adac81ba0fc",
+  "homepage": "https://github.com/katzer/cordova-plugin-local-notifications#readme",
+  "keywords": [
+    "appplant",
+    "cordova-android",
+    "cordova-ios",
+    "cordova-windows",
+    "ecosystem:cordova",
+    "local notification",
+    "notification",
+    "user notification"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "dpalou",
+      "email": "dani@moodle.com"
+    }
+  ],
+  "name": "cordova-plugin-local-notifications-mm",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dpalou/cordova-plugin-local-notifications.git"
+  },
+  "version": "1.0.13"
+}
